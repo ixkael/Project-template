@@ -1,0 +1,5 @@
+coverage run --source codename -m py.test
+pep8 codename/*py
+pep8 tests/*py
+pep8 scripts/*py
+coverage report

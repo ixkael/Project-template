@@ -1,0 +1,11 @@
+numpy
+cython
+pytest
+pylint
+pep8
+scipy
+matplotlib
+coveralls
+mpi4py
+astropy
+sphinx
